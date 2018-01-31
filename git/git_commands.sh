@@ -9,4 +9,5 @@ git checkout <branch|commit> # anschauen/ go to )
 branch # ast
 git branch # shows all branches
 git checkout exercices # Hausaufgaben
-
+git remote add <remote> <url> #adds a remote repository
+git push -u <remote> <branch>
